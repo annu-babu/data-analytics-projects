@@ -6,7 +6,7 @@ These projects demonstrate my skills in data cleaning, EDA, dashboarding, and bu
 
 ---
 
-## 🔷 1. Market Analysis (SQL + Python + Power BI)
+##  1. Market Analysis (SQL + Python + Power BI)
 **File:** Market Analysis.docx.pdf  
 Retail market analysis involving 20+ SQL queries across orders, products, aisles, and departments.  
 Python and Power BI were used for multiple analytical questions that required deeper visualizations and distribution analysis.
@@ -16,7 +16,7 @@ SQL • Python (Pandas, NumPy, Matplotlib) • Power BI • EDA • Visualizatio
 
 ---
 
-## 🔷 2. Job Market Analysis (Power BI)
+##  2. Job Market Analysis (Power BI)
 **File:** job_market(2)pdf.pdf  
 Analyzed job market data (742 rows, 42 features) to explore hiring trends, in-demand skills, salary patterns, job titles, company demand, and state-wise opportunities.  
 Power BI was used for cleaning, preprocessing, creating new fields, and designing interactive dashboards.
@@ -26,7 +26,7 @@ Power BI • Data Cleaning • DAX (Basic) • Dashboarding • Data Modeling �
 
 ---
 
-## 🔷 3. Retail Order Analysis Using SQL
+##  3. Retail Order Analysis Using SQL
 **File:** Retail_Order_Analysis_SQL.pdf  
 End-to-end SQL analysis of retail order behavior.  
 Includes queries on product performance, reorder behavior, department/aisle distribution, peak ordering hours, user ordering frequency, and cart behavior.  
