@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects Portfolio
+# Data Analytics Projects Portfolio
 
 This repository contains my Data Analytics projects completed using **SQL, Python, Power BI, and Excel**.  
 Each project includes end-to-end analysis, insights, and visual summaries.  
@@ -37,10 +37,5 @@ SQL • Joins • Group By • Aggregation • Data Cleaning • EDA • Query O
 
 ---
 
-## 📎 How to View the Projects
-Click any of the PDF files above to view the full visual presentation and insights.
-
----
-
-## 📧 Contact
+##  Contact
 Feel free to connect for project discussions, collaborations, or job opportunities.
